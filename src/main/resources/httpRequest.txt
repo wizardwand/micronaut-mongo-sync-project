@@ -1,0 +1,20 @@
+
+###
+POST http://localhost:8080/person
+Content-Type: application/json
+
+{
+"name":"Shrish",
+"city":"Pune"
+}
+
+<> 2020-11-29T221710.201.json
+<> 2020-11-29T221555.201.json
+<> 2020-11-29T221527.415.json
+<> 2020-11-29T221343.404.json
+
+###
+GET http://localhost:8080/person
+
+<> 2020-11-29T222213.200.json
+<> 2020-11-29T222006.405.json

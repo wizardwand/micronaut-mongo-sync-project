@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: micronautMongoProject
+#mongodb:
+#  host: localhost:2717
+mongodb.uri: ${MONGO_URL:`mongodb://localhost:2717/`}
